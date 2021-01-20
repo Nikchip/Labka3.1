@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Labka3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Labka3_jar</output-path>
+    <root id="archive" name="Labka3.jar">
+      <element id="module-output" name="Labka3" />
+    </root>
+  </artifact>
+</component>
